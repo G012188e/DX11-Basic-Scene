@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal">
+  
+ <objectgroup name="WaypointLayer" width="30" height="20">
+  <object name="Waypoint" x="-500" z="278" width="61" height="5">
+   <properties>
+    <property name="Connections" value="0"/>
+    <property name="ID" value="0"/>
+   </properties>
+  </object>
+  <object name="Waypoint" x="162" z="513" width="61" height="5">
+   <properties>
+    <property name="Connections" value="0"/>
+    <property name="ID" value="1"/>
+   </properties>
+  </object>
+  <object name="Waypoint" x="470" z="-335" width="61" height="5">
+   <properties>
+    <property name="Connections" value="1"/>
+    <property name="ID" value="2"/>
+   </properties>
+  </object>
+  <object name="Waypoint" x="-340" z="-414" width="61" height="5">
+   <properties>
+    <property name="Connections" value="2"/>
+    <property name="ID" value="3"/>
+   </properties>
+  </object>
+ </objectgroup>
+</map>
